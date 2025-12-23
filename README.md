@@ -1,11 +1,9 @@
-# Actividad AE - 7: Colaboración Efectiva con Git
-Este proyecto simula un flujo de trabajo colaborativo.
+# Actividad 7: Gestión de Proyectos con Git y GitHub
 
-## Funcionalidades implementadas:
-- Configuración de repositorio local y remoto.
-- Creación de una barra de navegación en una rama independiente.
-- Fusión de cambios (merge) a la rama principal.
+## Descripción
+Este proyecto simula un flujo de trabajo profesional gestionando ramas y repositorios remotos.
 
-## Ramas utilizadas:
-- `master`: Rama principal.
-- `feature/navbar`: Rama para el desarrollo de la navegación.
+## Funcionalidades
+* Estructura básica HTML5.
+* Barra de navegación (Rama: feature/navbar).
+* Pie de página (Rama: feature/footer).
